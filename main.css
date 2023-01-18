@@ -1,6 +1,5 @@
 :root{
-    --maine-color: #a627e6;
-    --hover-color: #811eb3;
+    --main-color: #a627e6;
 
     --background-image: url(https://i.imgur.com/59Kwrms.jpeg);
 }
@@ -15,5 +14,5 @@
 }
 
 .typeWindows-2-g3UY {
-    background: var(--maine-color);
+    background: var(--main-color);
 }

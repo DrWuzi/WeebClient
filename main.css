@@ -1,5 +1,5 @@
 :root{
-    --main-color: #a627e6;
+    --top-color: #A600FF3F;
 
     --background-image: url(https://i.imgur.com/59Kwrms.jpeg);
 }
@@ -14,5 +14,5 @@
 }
 
 .typeWindows-2-g3UY {
-    background: var(--main-color);
+    background: var(--top-color);
 }

@@ -22,5 +22,6 @@
 }
 
 .withFrame-2dL45i{
-    margin-top: 0px;
+    margin-top: 4px;
+    border-top: 4px solid var(--top-color);
 }
